@@ -1,14 +1,10 @@
 # osu! beatmaps to glyph converter
-___
 <p>This repository contains scripts that allow you to convert osu! beatmaps to label files, which in turn can be converted to ringtones for Nothing Phone.</p>
 
 ## What is osu?
-___
 osu! - is a rhythm game where you click on circles to the music. All the songs for osu! are called beatmaps. Bitmaps store data about at what point in time, and where the circle is located. There's also beatmapsets. They are distributed as zip archives, they contain a song and some beatmaps.
 
 ## Usage
-___
-
 - Web version
 You can use the web version of this project: https://taiixu.com/osu
 
