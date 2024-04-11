@@ -43,7 +43,7 @@ The higher the value of `-s` argument, the faster the glyphs are switched
 ## Difference between GlyphV1 and GlyphV2
 
 ### GlyphV1
-With GlyphV1 you can only make ringtones for Nothing Phone 1.
+With GlyphV1 you can only make ringtones for Nothing Phone 1.<br>
 GlyphV1 displays circles on the first two glyphs (on top), and sliders on the bottom three glyphs.
 
 #### Here's an example of what it looks like: 
@@ -51,10 +51,10 @@ https://github.com/taiixu/osu-to-glyph/assets/156664940/6ecd5c99-b6d5-4fef-8e0b-
 <p align="center">Map: https://osu.ppy.sh/beatmapsets/647105#osu/1370878</p>
 
 ### GlyphV2
-GlyphV2 can make ringtones for Nothing Phone 1 and Nothing Phone 2.
-This version of the script breaks the map into tacts, and depending on the number of objects in a tact, uses patterns (which you can find at the path: utils/glypheffets.py).
-Also new arguments have been added to this script:
-`--np2` or `-2` - creates a label file for Nothing Phone 2
+GlyphV2 can make ringtones for Nothing Phone 1 and Nothing Phone 2.<br>
+This version of the script breaks the map into tacts, and depending on the number of objects in a tact, uses patterns (which you can find at the path: utils/glypheffets.py).<br>
+#### Also new arguments have been added to this script:
+`--np2` or `-2` - creates a label file for Nothing Phone 2<br>
 `--seed` or `-e` - Sets seed
 
 #### Here's an example of what it looks like on NP1:
