@@ -67,7 +67,7 @@ https://github.com/taiixu/osu-to-glyph/assets/156664940/12754988-3730-4d44-8836-
 
 ## What to do with label.txt
 You can use [custom-nothing-glyph-tools](https://github.com/SebiAi/custom-nothing-glyph-tools) by [SebiAi](https://github.com/SebiAi)<br>
-Or use the web version: https://taiixu/tools
+Or use the web version: https://taiixu.com/tools
 
 ### Clone the repo
 ```
