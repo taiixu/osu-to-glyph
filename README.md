@@ -48,7 +48,7 @@ GlyphV1 displays circles on the first two glyphs (on top), and sliders on the bo
 
 #### Here's an example of what it looks like: 
 https://github.com/taiixu/osu-to-glyph/assets/156664940/6ecd5c99-b6d5-4fef-8e0b-48d7f18f4097
-<p>Map: https://osu.ppy.sh/beatmapsets/647105#osu/1370878</p>
+<p align="center">Map: https://osu.ppy.sh/beatmapsets/647105#osu/1370878</p>
 
 ### GlyphV2
 GlyphV2 can make ringtones for Nothing Phone 1 and Nothing Phone 2.
@@ -59,11 +59,11 @@ Also new arguments have been added to this script:
 
 #### Here's an example of what it looks like on NP1:
 https://github.com/taiixu/osu-to-glyph/assets/156664940/f531832e-797e-4d08-b74e-d4f088f6a85a
-<p>Map: https://osu.ppy.sh/beatmapsets/1742920#osu/3617161</p>
+<p align="center">Map: https://osu.ppy.sh/beatmapsets/1742920#osu/3617161</p>
 
 #### Example, how it looks on NP2:
 https://github.com/taiixu/osu-to-glyph/assets/156664940/12754988-3730-4d44-8836-a32c45d6f43c
-<p>Map: https://osu.ppy.sh/beatmapsets/1614335#osu/4556061</p>
+<p align="center">Map: https://osu.ppy.sh/beatmapsets/1614335#osu/4556061</p>
 
 ## What to do with label.txt
 You can use [custom-nothing-glyph-tools](https://github.com/SebiAi/custom-nothing-glyph-tools) by [SebiAi](https://github.com/SebiAi)<br>
