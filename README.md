@@ -18,7 +18,7 @@ cd osu-to-glyph
 You can download beatmapsets on this page: https://osu.ppy.sh/beatmapsets?m=0 (registration needed)
 
 ### Convert beatmapset to label.txt
-<b>Get the maps that are in beatmapset.</b>
+<b>Get the beatmap names and numbers that are in beatmapset.</b>
 ```
 python3 GlyphV1.py --osz /path/to/osz/file
 ```
@@ -27,7 +27,7 @@ python3 GlyphV1.py --osz /path/to/osz/file
 ```
 python3 GlyphV1.py --osz /path/to/osz/file -n 1 -o /output/path/to/label.txt
 ```
-In the `-n` argument specify the number of the bitmap you want to convert.
+In the `-n` argument specify the number of the beatmap you want to convert.
 
 <b>Convert beatmapset with audio extraction</b>
 ```
