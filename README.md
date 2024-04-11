@@ -46,7 +46,7 @@ The higher the value of `-s` argument, the faster the glyphs are switched
 With GlyphV1 you can only make ringtones for Nothing Phone 1.
 GlyphV1 displays circles on the first two glyphs (on top), and sliders on the bottom three glyphs.
 
-Here's an example of what it looks like: 
+#### Here's an example of what it looks like: 
 https://github.com/taiixu/osu-to-glyph/assets/156664940/6ecd5c99-b6d5-4fef-8e0b-48d7f18f4097
 <p>Map: https://osu.ppy.sh/beatmapsets/647105#osu/1370878</p>
 
@@ -66,7 +66,7 @@ https://github.com/taiixu/osu-to-glyph/assets/156664940/12754988-3730-4d44-8836-
 <p>Map: https://osu.ppy.sh/beatmapsets/1614335#osu/4556061</p>
 
 ## What to do with label.txt
-You can use [custom-nothing-glyph-tools](https://github.com/SebiAi/custom-nothing-glyph-tools) by [SebiAi](https://github.com/SebiAi)
+You can use [custom-nothing-glyph-tools](https://github.com/SebiAi/custom-nothing-glyph-tools) by [SebiAi](https://github.com/SebiAi)<br>
 Or use the web version: https://taiixu/tools
 
 ### Clone the repo
