@@ -18,11 +18,7 @@ cd osu-to-glyph
 You can download beatmapsets on this page: https://osu.ppy.sh/beatmapsets?m=0 (registration needed)
 
 ### Convert beatmapset to label.txt
-<<<<<<< HEAD
-<b>Get the maps that are in beatmapset.</b>
-=======
 <b>Get the beatmap names and numbers that are in beatmapset.</b>
->>>>>>> 3117c2071def74ad5eb6f7750966d206f4071e92
 ```
 python3 GlyphV1.py --osz /path/to/osz/file
 ```
@@ -44,18 +40,6 @@ python3 GlyphV1.py --osz /path/to/osz/file -n 1 -o /path/to/label.txt -s 28
 ```
 The higher the value of `-s` argument, the faster the glyphs are switched
 
-<<<<<<< HEAD
-## Difference between GlyphV1 and GlyphV2
-
-### GlyphV1
-With GlyphV1 you can only make ringtones for Nothing Phone 1.<br>
-GlyphV1 displays circles on the first two glyphs (on top), and sliders on the bottom three glyphs.
-
-#### Here's an example of what it looks like: 
-https://github.com/taiixu/osu-to-glyph/assets/156664940/6ecd5c99-b6d5-4fef-8e0b-48d7f18f4097
-<p align="center">Map: https://osu.ppy.sh/beatmapsets/647105#osu/1370878</p>
-
-=======
 <b>You can also use GlyphV2, the args are exacly the same</b>
 ```
 python3 GlyphV2.py --osz /path/to/osz/file -n 1 -o /path/to/label.txt
@@ -76,7 +60,6 @@ GlyphV1 displays circles on the first two glyphs (on top), and sliders on the bo
 https://github.com/taiixu/osu-to-glyph/assets/156664940/6ecd5c99-b6d5-4fef-8e0b-48d7f18f4097
 <p align="center">Map: https://osu.ppy.sh/beatmapsets/647105#osu/1370878</p>
 
->>>>>>> 3117c2071def74ad5eb6f7750966d206f4071e92
 ### GlyphV2
 GlyphV2 can make ringtones for Nothing Phone 1 and Nothing Phone 2.<br>
 This version of the script breaks the map into tacts, and depending on the number of objects in a tact, uses patterns (which you can find at the path: utils/glypheffets.py).<br>
@@ -94,11 +77,7 @@ https://github.com/taiixu/osu-to-glyph/assets/156664940/12754988-3730-4d44-8836-
 
 ## What to do with label.txt
 You can use [custom-nothing-glyph-tools](https://github.com/SebiAi/custom-nothing-glyph-tools) by [SebiAi](https://github.com/SebiAi)<br>
-<<<<<<< HEAD
-Or use the web version: https://taiixu/tools
-=======
 Or use the web version: https://taiixu.com/tools
->>>>>>> 3117c2071def74ad5eb6f7750966d206f4071e92
 
 ### Clone the repo
 ```
