@@ -40,6 +40,16 @@ python3 GlyphV1.py --osz /path/to/osz/file -n 1 -o /path/to/label.txt -s 28
 ```
 The higher the value of `-s` argument, the faster the glyphs are switched
 
+<b>You can also use GlyphV2, the args are exacly the same</b>
+```
+python3 GlyphV2.py --osz /path/to/osz/file -n 1 -o /path/to/label.txt
+```
+
+<b>Convert for Nothing Phone 2</b>
+```
+python3 GlyphV2.py --osz /path/to/osz/file -n 1 -o /path/to/label.txt --np2
+```
+
 ## Difference between GlyphV1 and GlyphV2
 
 ### GlyphV1
